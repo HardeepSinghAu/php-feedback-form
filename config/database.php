@@ -2,7 +2,7 @@
 // first define some constants
 define('DB_HOST', 'localhost');
 define('DB_USER', 'hardeep');
-define('DB_PASS', 'Tahj2018');
+define('DB_PASS', 'password');
 define('DB_NAME', 'php_dev');
 
 // Create connection
